@@ -30,8 +30,8 @@ const styles = StyleSheet.create({
     color: '#fff',
     margin: 5,
     padding: 5,
-    width: 120,
-    height: 120,
+    width: 110,
+    height: 110,
    
   },
 });
