@@ -1,2 +1,2 @@
-## Welcome to the Expo App 👌
+## Welcome to the Expo _ App 👌
 ### Flex Property in the  React Native.
