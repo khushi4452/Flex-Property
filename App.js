@@ -6,7 +6,7 @@ export default function App() {
     <View>
     <Text style={{ fontSize: 49 }}>Grid with dynamic data</Text>
     <View style={{ flex: 1, flexDirection: 'row', flexWrap: 'wrap' }}>
-        <Text style={styles.item}>khushi</Text>
+        <Text style={styles.item}>Musrat</Text>
         <Text style={styles.item}>khushi</Text>
         <Text style={styles.item}>khushi</Text>
         <Text style={styles.item}>khushi</Text>
