@@ -17,8 +17,6 @@ export default function App() {
         <Text style={styles.item}>khushi</Text>
         <Text style={styles.item}>khushi</Text>
         <Text style={styles.item}>khushi</Text>
-        <Text style={styles.item}>khushi</Text>
-        <Text style={styles.item}>khushi</Text>
         <Text style={styles.item}>Musrat</Text>
         
       </View>
