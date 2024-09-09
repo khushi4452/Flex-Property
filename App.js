@@ -24,7 +24,7 @@ export default function App() {
 
 const styles = StyleSheet.create({
   item: {
-    fontSize: 40,
+    fontSize: 30,
     backgroundColor: 'red',
     color: '#fff',
     margin: 5,
